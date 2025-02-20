@@ -1,0 +1,9 @@
+Checking for updates...
+From github.com:AbhishekDaniel02/ota-update-test
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+Updating to new version: appv1.py
+mv: 'appv1.py' and 'appv1.py' are the same file
+Restarting application...
+Update complete!
+Version 5.0
